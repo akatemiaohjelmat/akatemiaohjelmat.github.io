@@ -8,7 +8,7 @@
     - Have a minimum of a bachelor’s degree in specific tech-related subjects, For example, programming, data engineering, informatics, and information processing. We are also interested in wider it-related competencies, such as; information systems science 
     - Are fluent in English, and preferably Finnish. Many Graduate positions requires fluency in Finnish, and this will therefore be an advantage.  
 
-## Solita [Data academy link](https://www.solita.fi/en/positions/data-academy-training-path-to-become-a-data-professional-5423525003/), [Dev academy link]
+## Solita [Data academy link](https://www.solita.fi/en/positions/data-academy-training-path-to-become-a-data-professional-5423525003/), [Dev academy link](https://www.solita.fi/sv/positions/dev-academy-to-boost-your-software-developer-career-5427532003/)
 ### Data
   * Application period : 2022-12-22 - **2023-01-08**
   * Location: Main office locations in Finland, Estonia also an option(?)
