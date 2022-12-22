@@ -9,7 +9,7 @@
     - Are fluent in English, and preferably Finnish. Many Graduate positions requires fluency in Finnish, and this will therefore be an advantage.  
 
 ## Solita [Data academy link](https://www.solita.fi/en/positions/data-academy-training-path-to-become-a-data-professional-5423525003/), [Dev academy link](https://www.solita.fi/sv/positions/dev-academy-to-boost-your-software-developer-career-5427532003/)
-### Data
+### [Data]((https://www.solita.fi/en/positions/data-academy-training-path-to-become-a-data-professional-5423525003/))
   * Application period : 2022-12-22 - **2023-01-08**
   * Location: Main office locations in Finland, Estonia also an option(?)
   * Some specs:
@@ -22,7 +22,7 @@
     - Almost graduated or graduated 
     - Full-time available (minimum during academy)
 
-### Dev
+### [Dev](https://www.solita.fi/sv/positions/dev-academy-to-boost-your-software-developer-career-5427532003/)
   * Application period : 2022-12-22 - **2023-02-05**
   * Location: Anywhere in Finland(?)
   * Some specs:
