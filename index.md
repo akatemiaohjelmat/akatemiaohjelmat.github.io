@@ -30,3 +30,20 @@
     - passion for coding and courage to embrace new challenges
     - ability to use English as a working language
     - To be able to participate in the Academy, you need to be living in Finland. We have offices in Helsinki, Oulu, Tampere, Lahti and Turku and light offices in Kuopio, Joensuu, Pori and Jyväskylä. We also have flexible remote working possibilities. 
+
+### [Cloud](https://www.solita.fi/positions/hae-asiantuntijaksi-solita-cloud-academyyn-5291490003/)
+  * Application period : 2023-01-01 - **2023-01-22**
+  * Location: Finland?
+  * Some specs:
+    - The page says it would be nice if two of the following apply:
+      - Interested in Azure
+      - General experience in the industry as a programmer or an admin apparently expected
+      - Experience in working as an expert
+      - You believe in automation, e.g. Terraform & using version control
+
+## CGI [Link to ad](https://www.cgi.com/fi/fi/ura/opiskelijat-ja-vastavalmistuneet)
+  * Application period : 2023-01-01 - **2023-01-31** (on a quick glance, but might vary between the tens of positions, so YMMV)
+  * Location: depends on the position, multiple locations in Finland
+  * Some specs:
+    - A lot of different positions varying from software development to project management, low code, cyber security, analytics...
+    - ...so better you just take a look of the page :-)
