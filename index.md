@@ -48,7 +48,7 @@
     - A lot of different positions varying from software development to project management, low code, cyber security, analytics...
     - ...so better you just take a look of the page :-)
 
-## Gofore [Link to ad](https://gofore.com/hackademy/)
+## Gofore Hackademy [Link to ad](https://gofore.com/hackademy/)
   * Application period : 2023-01-05 - **2023-02-05**
   * Location: contact teaching @ Helsinki & Tampere, but any city with Gofore offices a possibility
   * Some specs:
