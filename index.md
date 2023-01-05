@@ -8,8 +8,8 @@
     - Have a minimum of a bachelor’s degree in specific tech-related subjects, For example, programming, data engineering, informatics, and information processing. We are also interested in wider it-related competencies, such as; information systems science 
     - Are fluent in English, and preferably Finnish. Many Graduate positions requires fluency in Finnish, and this will therefore be an advantage.  
 
-## Solita [Data academy link](https://www.solita.fi/en/positions/data-academy-training-path-to-become-a-data-professional-5423525003/), [Dev academy link](https://www.solita.fi/sv/positions/dev-academy-to-boost-your-software-developer-career-5427532003/)
-### [Data](https://www.solita.fi/en/positions/data-academy-training-path-to-become-a-data-professional-5423525003/)
+## Solita [Data](https://www.solita.fi/en/positions/data-academy-training-path-to-become-a-data-professional-5423525003/), [Dev](https://www.solita.fi/sv/positions/dev-academy-to-boost-your-software-developer-career-5427532003/), [Cloud](https://www.solita.fi/positions/hae-asiantuntijaksi-solita-cloud-academyyn-5291490003/)
+### [Solita Data](https://www.solita.fi/en/positions/data-academy-training-path-to-become-a-data-professional-5423525003/)
   * Application period : 2022-12-22 - **2023-01-08**
   * Location: Main office locations in Finland, Estonia also an option(?)
   * Some specs:
@@ -22,7 +22,7 @@
     - Almost graduated or graduated 
     - Full-time available (minimum during academy)
 
-### [Dev](https://www.solita.fi/sv/positions/dev-academy-to-boost-your-software-developer-career-5427532003/)
+### [Solita Dev](https://www.solita.fi/sv/positions/dev-academy-to-boost-your-software-developer-career-5427532003/)
   * Application period : 2022-12-22 - **2023-02-05**
   * Location: Anywhere in Finland(?)
   * Some specs:
@@ -31,7 +31,7 @@
     - ability to use English as a working language
     - To be able to participate in the Academy, you need to be living in Finland. We have offices in Helsinki, Oulu, Tampere, Lahti and Turku and light offices in Kuopio, Joensuu, Pori and Jyväskylä. We also have flexible remote working possibilities. 
 
-### [Cloud](https://www.solita.fi/positions/hae-asiantuntijaksi-solita-cloud-academyyn-5291490003/)
+### [Solita Cloud](https://www.solita.fi/positions/hae-asiantuntijaksi-solita-cloud-academyyn-5291490003/)
   * Application period : 2023-01-01 - **2023-01-22**
   * Location: Finland?
   * Some specs:
